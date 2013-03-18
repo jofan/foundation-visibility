@@ -1,0 +1,22 @@
+{
+  "name": "foundation-visibility",
+  "repo": "jofan/foundation-visibility",
+  "description": "Visibility CSS component of Zurb's Foundation framework 4",
+  "version": "4.0.8",
+  "keywords": [
+    "CSS",
+    "Visibility",
+    "mobile",
+    "responsive",
+    "framework",
+    "foundation"
+  ],
+  "dependencies": {
+    "jofan/foundation-global": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "foundation-visibility.css"
+  ]
+}
